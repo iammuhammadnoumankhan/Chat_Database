@@ -1,0 +1,49 @@
+# Environment files
+.env
+
+# Python bytecode
+__pycache__/
+
+# Databases
+databases/
+
+# data
+data/
+
+# DS Store
+.DS_Store
+
+# DuckDB files
+*.duckdb
+*.wal
+*.tmp/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# SQLite files
+*.db
+*.sqlite
+*.sqlite3
+
+# Visual Studio files
+bin/
+obj/
+*.dbmdl
+*.jfm
+*.sqlproj.user
+
+# User-specific files
+*.user
+*.userprefs
+
+# Other
+*.pfx
+*.publishsettings
+*.swp # swap file
+*~ # backup files
+.DS_Store # macOS folder attributes
+
+
