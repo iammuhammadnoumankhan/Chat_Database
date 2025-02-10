@@ -201,5 +201,4 @@ This project is licensed under the MIT License.
 ---
 
 ## **9. Contact**
-For support or feature requests, contact [Your Name] at [your.email@example.com].
-
+For support or feature requests, contact [Muhammad Nouman Khan] at [noumankhanonai@gmail.com].
